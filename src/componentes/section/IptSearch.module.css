@@ -1,0 +1,50 @@
+.IptSearch  {
+    align-items: center;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+}
+.IptSearch nav {
+    border: 1px solid #E3E3E3;
+    padding: 5px;
+    border-radius: 22px;
+    align-items: center;
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.IptSearch input {
+    width: 400px;
+    border: none;
+    outline: none;
+}
+.IptSearch div {
+    align-items: center;
+    display: flex;
+}
+
+.IptSearch div button {
+    margin-left: 10px;
+    margin-bottom: 12px;
+}
+
+.IptSearch div button:hover {
+    border: 1px solid #cecccc ;
+}
+
+.IptSearch div p {
+    font-size: 14px;
+    color: #1A0DBD;
+    font-weight: 500;
+    margin-left: 4px;
+    cursor: pointer;
+}
+
+.IptSearch div a {
+    text-decoration: none;
+
+}
+.IptSearch div a:hover {
+    text-decoration: underline;
+}
+

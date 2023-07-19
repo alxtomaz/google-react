@@ -1,0 +1,12 @@
+.Search {
+    position: relative;
+    height: 240px;
+}
+
+.Search img{
+    position: absolute;
+    translate: -50%;
+    bottom: 0;
+}
+
+
